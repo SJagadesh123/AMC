@@ -1,0 +1,16 @@
+1704124234814	Rename resource 'amc-list.jsp'
+1704124532720	Rename resource 'search-list.jsp'
+1704125116883	Rename resource 'search-list-style.css'
+1704130849813	Rename type 'AmsDaoImpl'
+1704174522741	Delete element
+1704176282465	Delete element
+1704200852722	Rename type 'AmcAppraisalLocDaoImpl'
+1704200911635	Rename type 'UserDaoImpl'
+1704200937078	Rename type 'UserDAOImpl'
+1704200948182	Rename type 'PropertyTypeDAOImpl'
+1704200960391	Rename type 'AppraisalLocDAOImpl'
+1704200974621	Rename type 'AmcProjectImpl'
+1704200987134	Rename type 'AmcAppraisalLocDAOImpl'
+1704204990825	Delete element
+1704276895565	Rename field 'projectTypeId'
+1704277088190	Rename field 'projectTypeId'

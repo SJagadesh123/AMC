@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=appraiser_management_system/D:\/tomcat\/lib\/tomcat-jdbc.jar=/javadoc_location=/http:\/\/tomcat.apache.org\/tomcat-10.1-doc\/api\/=/=/owner.project.facets=/jst.web=/&lt;org.apache.tomcat.jdbc.pool(Validator.class[Validator" modifiers="1537" timestamp="1701991898000"/>
+    <typeInfo handle="=appraiser_management_system/src\/main\/java&lt;com.zm.ams.services{AmcService.java[AmcService" modifiers="513" timestamp="1704280317854"/>
+    <typeInfo handle="=appraiser_management_system/src\/main\/java&lt;com.zm.ams.services{AppraisalLocService.java[AppraisalLocService" modifiers="513" timestamp="1704297669257"/>
+    <typeInfo handle="=appraiser_management_system/src\/main\/java&lt;com.zm.ams.services{AmcAppraisalLocService.java[AmcAppraisalLocService" modifiers="513" timestamp="1704299571290"/>
+    <typeInfo handle="=appraiser_management_system/src\/main\/java&lt;com.zm.ams.dto{ValidDto.java[ValidDto" modifiers="513" timestamp="1703914196158"/>
+    <typeInfo handle="=appraiser_management_system/src\/main\/java&lt;com.zm.ams.services{PropertyTypeService.java[PropertyTypeService" modifiers="513" timestamp="1704276644002"/>
+    <typeInfo handle="=appraiser_management_system/src\/main\/java&lt;com.zm.ams.dao{AmsDao.java[AmsDao" modifiers="513" timestamp="1704299612955"/>
+    <typeInfo handle="=appraiser_management_system/src\/main\/java&lt;com.zm.ams.services{AmcProjectService.java[AmcProjectService" modifiers="513" timestamp="1704276578302"/>
+</typeInfoHistroy>

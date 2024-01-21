@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: whitesmoke;
+	margin: 0;
+	padding: 0;
+}
+
+.form {
+	max-width: 600px;
+	margin: 20px auto;
+	background-color:white;
+	padding: 20px;
+	box-shadow: 0 0 10px;
+}
+
+h2 {
+	color: #333;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 10px;
+}
+
+td {
+	padding: 10px;
+	border: 1px solid #ddd;
+}
+
+
+select,
+input[type="text"],
+textarea,
+input[type="date"] {
+	width: 100%;
+	padding: 8px;
+	margin: 5px 0;
+	box-sizing: border-box;
+}
+
